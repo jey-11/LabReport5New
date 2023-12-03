@@ -7,11 +7,12 @@ Dear TA,<br>
     Student <br>
 ![Image](Lab5_2.png)<br>
 
-**2)** A response from a TA asking a leading question or suggesting a command to try (To be clear, you are mimicking a TA here.)
-Hello Student,
-  Based on your problem and provided code it seems that there is a problem when you are adding to your new merged array. I would recommend going through the conditions used to add to the array, there is likely a problem there.
-   Best,
-   TA
+**2)** A response from a TA asking a leading question or suggesting a command to try (To be clear, you are mimicking a TA here.)<br>
+
+Hello Student,<br>
+  Based on your problem and provided code it seems that there is a problem when you are adding to your new merged array. I would recommend going through the conditions used to add to the array, there is likely a problem there.<br>
+   Best,<br>
+   TA<br>
    
 **3)** Another screenshot/terminal output showing what information the student got from trying that, and a clear description of what the bug is.
 there was a line of code in TestExamples.java 
