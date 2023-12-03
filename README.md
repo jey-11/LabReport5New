@@ -22,7 +22,8 @@ there was a line of code in TestExamples.java that compared the values incorrect
 **4)** At the end, all the information needed about the setup including:
 - The file & directory structure needed: list-examples-grader which contatins grade.sh and an implementation of ListExamples.java
 - The contents of each file before fixing the bug:
-  ```class ListExamples {
+  ```
+  class ListExamples {
       public static void main(String[] args){
         ArrayList<String> list1 = new ArrayList<>(Arrays.asList("a", "b", "c"));
         ArrayList<String> list2 = new ArrayList<>(Arrays.asList("c", "d", "e"));
@@ -51,10 +52,14 @@ there was a line of code in TestExamples.java that compared the values incorrect
         }
         return result;
       }
-  } ``` <br>
+  }
+   ``` <br>
+  
   within grade.sh
-  `javac ListExamples.java
-  java ListExamples`
+  ```
+  javac ListExamples.java
+  java ListExamples
+  ```
 
 - The full command line (or lines) you ran to trigger the bug `javac ListExamples.java` `java ListExamples` was called within the bash script
 - A description of what to edit to fix the bug: I had to change the comparison sign from > to < 
