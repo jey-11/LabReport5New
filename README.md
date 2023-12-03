@@ -53,10 +53,9 @@ there was a line of code in TestExamples.java that compared the values incorrect
         return result;
       }
   }
-   ``` 
-  
+ ``` 
   within grade.sh
-  ```
+ ```
   javac ListExamples.java
   java ListExamples
   ```
