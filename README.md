@@ -51,7 +51,7 @@ there was a line of code in TestExamples.java that compared the values incorrect
         }
         return result;
       }
-  }```
+  }
 
 
 - The full command line (or lines) you ran to trigger the bug `javac ListExamples.java` `java ListExamples`
