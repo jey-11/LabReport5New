@@ -14,8 +14,8 @@ Hello Student,<br>
    Best,<br>
    TA<br>
    
-**3)** Another screenshot/terminal output showing what information the student got from trying that, and a clear description of what the bug is.
-there was a line of code in TestExamples.java 
+**3)** Another screenshot/terminal output showing what information the student got from trying that, and a clear description of what the bug is.<br>
+there was a line of code in TestExamples.java that compared the values incorrectly and caused the error. <br>
 ![Image](Lab5_3.png)<br>
 ![Image](Lab5_1.png)<br>
 
